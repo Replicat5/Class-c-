@@ -27,7 +27,7 @@ int main()
 
     cout << "Новый массив: ";
     showArr(arr,N);
-    delete[]arr;
+    
 	return(0);
 }
 
